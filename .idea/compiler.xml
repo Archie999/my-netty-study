@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="chapter2" target="1.5" />
+      <module name="my-netty-study" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
